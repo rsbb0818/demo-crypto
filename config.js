@@ -1,6 +1,6 @@
 module.exports = {
 	MONGODB:
-		'mongodb+srv://jerryli:bGEZkkUNWXbcdX1u@thecrypto.vlio0.mongodb.net/crypto?retryWrites=true&w=majority',
+		'mongodb+srv://readonlyuser:B9Uw3zcAHaP4OuHW@thecrypto.vlio0.mongodb.net/crypto?retryWrites=true&w=majority',
 	SECRET_KEY: 'secret key here',
 };
 
